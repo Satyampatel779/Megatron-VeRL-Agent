@@ -35,9 +35,3 @@ Instead of relying on costly human preference data (RLHF), this model is aligned
 ### Prerequisites
 * NVIDIA Docker Container (`nvcr.io/nvidia/pytorch:23.07-py3`)
 * At least 1x Node with 8x A100/H100 GPUs
-
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/YourUsername/Your-Repo-Name.git](https://github.com/YourUsername/Your-Repo-Name.git)
-   cd Your-Repo-Name
